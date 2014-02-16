@@ -1,11 +1,14 @@
 body {
-    background-color: yellow
+    background-color: teal;
+}
+#score{
+    background-color: blue;
 }
 
 #container {
     margin: auto;
     float: left;
-    padding-left: 20%;
+    padding-left: 30%;
 }
 #newGame {
     float: right;
@@ -35,7 +38,12 @@ span {
 
 .red {
   background-color: red;
+  font-size: 100px;
+  color: black;
 }
 
 .blue {
   background-color: blue;
+  font-size: 100px;
+  color: black;
+}
