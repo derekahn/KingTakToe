@@ -1,0 +1,26 @@
+body {
+    background-color: yellow
+}
+
+#container {
+    margin: auto;
+    float: left;
+    padding-left: 20%;
+}
+#newGame {
+    float: right;
+}
+
+table {
+    float: right;
+    border-width: 10px;
+    border-color: black;
+}
+span {
+    color: red;
+    background-color: white;
+    font-size: 150px;
+    float: left;
+    padding-left: 22%;
+    padding-top: 5%;
+}
