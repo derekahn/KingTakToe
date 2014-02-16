@@ -11,11 +11,7 @@ body {
     float: right;
 }
 
-table {
-    float: right;
-    border-width: 10px;
-    border-color: black;
-}
+
 span {
     color: red;
     background-color: white;
@@ -24,3 +20,22 @@ span {
     padding-left: 22%;
     padding-top: 5%;
 }
+.box_cell {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    opacity: .75;
+    box-shadow: 2px 2px 0px #888888
+}
+
+.hover {
+  background-color: #aaa;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
